@@ -1,5 +1,5 @@
 # LoL Parser
-The League of Legends data aggregation tool.
+The League of Legends data aggregation tool, written entirely in Java with the help of GSON for parsing JSON responses from the Riot Games API, and Apache POI for exporting the collected data to an Excel sheet.
 
 ## Features
 - Search by summoner name to receive a list of matches played
