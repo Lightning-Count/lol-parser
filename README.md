@@ -1,4 +1,4 @@
-#LoL Parser
+# LoL Parser
 The League of Legends data aggregation tool.
 
 ## Features
