@@ -3,7 +3,8 @@ The League of Legends data aggregation tool.
 
 ## Features
 - Search by summoner name to receive a list of matches played
-- View match data of the given summoner, such as damage dealt, taken, items bought, etc.
+- View match data of the given summoner, such as damage dealt, taken, items bought, etc
+- Data collected is exported to a .xls file, saved in the project folder
 
 ## Limitations
 Currently, the following limitations are in place:
